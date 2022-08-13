@@ -1,0 +1,18 @@
+
+  MOBS:
+Les mobs font toujours tomber 1 exp
+Ils ont un pourcentage de faire tomber des boules d'exp plus forte => varie avec "clover"
+Avance de plus en plus vite a chaque waves
+Les boss arive toutes les 5 minutes  => {
+  Ils font tomber plus d'exp
+  De plus en plus fort => { Plus de vie, plus de dégat, plus de penetration d'armor, plus d'armor }
+  Ils font tomber un coffre tous le temps => {
+    Contient : 
+      -Exp
+      -Possibilité d'arles Spéciales
+      -Donne une arme ou un items au hasard => choix de le prendre ou pas
+        => -Avec de la chance peut avoir 2 armes au hasard => varie avec "clover"
+      -Donne des golds
+  }
+}
+Des golds peut spawn au hasard sur la map 

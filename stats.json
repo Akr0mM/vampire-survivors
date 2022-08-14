@@ -1,0 +1,31 @@
+{
+    "experienceGrade": [ 5, 10, 20 ],
+    "ennemies": [
+        {
+            "health": 100,
+            "maxHealth": 100,
+            "ms": 1.5,
+            "armor": 0,
+            "expGiven": 1,
+            "dblExpGivenRate": 10,
+            "trplExpGivenRate": 1,
+            "bgcolor": "#f0f",
+            "width": 50,
+            "height": 100,
+            "dmg": 3
+        },
+        {
+            "health": 110,
+            "maxHealth": 110,
+            "ms": 1.5,
+            "armor": 5,
+            "expGiven": 1,
+            "dblExpGivenRate": 10,
+            "trplExpGivenRate": 1,
+            "bgcolor": "#f0c",
+            "width": 50,
+            "height": 100,
+            "dmg": 5
+        }
+    ]
+}

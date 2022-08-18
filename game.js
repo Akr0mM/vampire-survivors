@@ -2,7 +2,7 @@ import stats from "./stats.json" assert {type: 'json'};
 
 class Map {
     constructor() {
-
+        this.bonus = [{x: 1, y: 1}, {x: cw, y: 1}, {x: Math.floor(cw / 2), y: ch}]
     }
 
     drawBG() {
@@ -36,6 +36,7 @@ class Player {
         this.height = 100;
         this.x = 720;
         this.y = 450;
+        this.direction = 1
         this.health = 100;
         this.maxHealth = 100;
         this.velocityX = 0;

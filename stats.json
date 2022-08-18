@@ -27,5 +27,19 @@
             "height": 100,
             "dmg": 5
         }
-    ]
+    ],
+    "curse": {
+        "stage1": {
+            "description": {
+                "fr": "A partir de 30 minutes, tous les ennemies deviennent plus fort. Ils gagnent tous respectivement 20% de vitesse de deplacement bonus et 20% de vie bonus. Les boss gagnent 20% d'amure en plus.",
+                "en": "After 30 minutes, all enemies become stronger. They all earn respectively 20% bonus move speed and 20% bonus life. The bosses get 20% more armor."
+            }
+        },
+        "stage2": {
+            "description": {
+                "fr": "A partir de 35 minutes, tous les ennemies deviennent plus fort. Ils gagnent tous respectivement 35% de vitesse de deplacement bonus et 35% de vie bonus. Les boss gagnent 35% d'amure en plus.",
+                "en": "After 35 minutes, all enemies become stronger. They all earn respectively 35% bonus move speed and 35% bonus life. The bosses get 35% more armor."
+            }
+        }
+    }
 }
